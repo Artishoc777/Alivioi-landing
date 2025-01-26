@@ -1,0 +1,22 @@
+{
+  "name": "alivio_landing",
+  "version": "1.0.0",
+  "description": "landing alivio page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artishoc777/Alivioi-landing-.git"
+  },
+  "keywords": [
+    "landing"
+  ],
+  "author": "Artur N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artishoc777/Alivioi-landing-/issues"
+  },
+  "homepage": "https://github.com/Artishoc777/Alivioi-landing-#readme"
+}
